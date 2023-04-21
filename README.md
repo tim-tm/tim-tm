@@ -1,9 +1,16 @@
 # Hi :wave:
 
+# What I learn
+I'm trying to get even better at Java while also learning C/C++.
+
+# Collaboration
+I would like to collaborate in pretty much anything. 
+
+# Stats
 <p align="center"> 
-  Stats<br>
-      <img src="https://github-readme-stats.vercel.app/api?username=tim-tm&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tim-tm&theme=dark" />
 </p>
+
 
 <!--
 **sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
