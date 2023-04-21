@@ -1,8 +1,8 @@
-# Hey there :wave:
+# Hi :wave:
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Web-Tim/count.svg" />
+  Stats<br>
+      <img src="https://github-readme-stats.vercel.app/api?username=tim-tm&theme=dark" />
 </p>
 
 <!--
