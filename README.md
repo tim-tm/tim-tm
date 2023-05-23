@@ -1,9 +1,9 @@
 # Hi :wave:
 
-# What I learn
-I'm trying to get even better at Java while also learning C/C++.
+# 🌱 What I learn
+I am currently focusing on C.
 
-# Collaboration
+# 👯 Collaboration
 I would like to collaborate in pretty much anything. 
 
 # Stats
@@ -11,6 +11,8 @@ I would like to collaborate in pretty much anything.
     <img src="https://github-readme-stats.vercel.app/api?username=tim-tm&theme=dark" />
 </p>
 
+# 📫 Getting in contact
+Either send me a message on discord Timm#8360 or an email to teichmanntim@outlook.de. 
 
 <!--
 **sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
