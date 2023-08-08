@@ -1,6 +1,10 @@
 <h1>Interested in everything computer-related.</h1>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tim-tm&hide=html,javascript,css,scss&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tim-tm&hide=html,javascript,css,scss&theme=tokyonight" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
