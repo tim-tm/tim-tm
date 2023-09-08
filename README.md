@@ -1,10 +1,7 @@
 <h1>Interested in everything computer-related.</h1>
 
-<p align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tim-tm&theme=github_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tim-tm&theme=github_dark&utcOffset=2) 
-</p>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tim-tm&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tim-tm&theme=github_dark&utcOffset=2) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tim-tm&theme=github_dark)
 
 <p align="center">
